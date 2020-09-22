@@ -3,7 +3,7 @@
 //  OCSample
 //
 //  Created by ethanysma on 2020/9/22.
-//  Copyright © 2020 yishengma. All rights reserved.
+//  Copyright © 2020 ethanysma. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
